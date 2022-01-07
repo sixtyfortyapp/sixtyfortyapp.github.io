@@ -23,7 +23,8 @@ If you are interested in learning more about investing, check out https://sixtyf
 
 
 ## Privacy Poliicy
-HouseCurve does not collect, use, store or transfer personal data.  With your permission, Apple collects app analytics to help developers improve their apps.  For more information, see [Apple Privacy Policy](https://www.apple.com/privacy/).
+
+SixtyForty does not collect, use, store or transfer personal data.  With your permission, Apple collects app analytics to help developers improve their apps.  For more information, see [Apple Privacy Policy](https://www.apple.com/privacy/).
 
 ## EULA
 
