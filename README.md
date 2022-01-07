@@ -19,7 +19,7 @@ SixtyForty does not require access to your accounts - data is entered manually. 
 
 SixtyForty is intended for knowledgeable do-it-yourself investors that understand the importance of asset allocation and the role of rebalancing.  It is not a robo-advisor and does not provide investment advice.  It won’t tell you how to structure your portfolio or when to make trades.  That part - the fun part - is up to you, and likely the reason you decided to manage your own investments in the first place.
 
-If you are interested in learning more about investing, check out https://sixtyfortyapp.com for some reading recommendations.
+If you are interested in learning more about investing, check out the [Reading list](/READING.md).
 
 
 ## Privacy Policy
