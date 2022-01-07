@@ -22,7 +22,7 @@ SixtyForty is intended for knowledgeable do-it-yourself investors that understan
 If you are interested in learning more about investing, check out https://sixtyfortyapp.com for some reading recommendations.
 
 
-## Privacy Poliicy
+## Privacy Policy
 
 SixtyForty does not collect, use, store or transfer personal data.  With your permission, Apple collects app analytics to help developers improve their apps.  For more information, see [Apple Privacy Policy](https://www.apple.com/privacy/).
 
