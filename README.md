@@ -2,7 +2,7 @@
 
 SixtyForty is a tool for do-it-yourself passive investors.  Use it to periodically monitor your investment portfolio and decide if rebalancing is needed.
 
-![sixtyforty main](/assets/img/sixtyforty-main.png "Main accounts screen")
+![sixtyforty main](/assets/img/SixtyForty-main.png "Main accounts screen")
 
 ### Features:
 
