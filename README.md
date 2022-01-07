@@ -6,7 +6,7 @@ SixtyForty is a tool for do-it-yourself passive investors.  Use it to periodical
 
 ### Features:
 
-* Rebalancing summary shows asset allocation error
+* Rebalance summary shows asset allocation error
 * History plots to monitor asset and account volatility
 * Rebalance with cash flows in/out of account
 * Rebalance individual accounts or across multiple accounts
