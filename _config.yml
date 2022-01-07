@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: SixtyForty
-description: Need a tagline
+description: Simple portfolio rebalancing
 logo: /assets/img/small.png
 
 kramdown:

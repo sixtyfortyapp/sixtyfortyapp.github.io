@@ -1,4 +1,4 @@
-## Tagline here also
+## Simple Portfolio Rebalancing
 
 SixtyForty is a tool for do-it-yourself passive investors.  Use it to periodically monitor your investment portfolio and decide if rebalancing is needed.
 
