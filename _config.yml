@@ -5,6 +5,7 @@ plugins:
 title: SixtyForty
 description: Simple portfolio rebalancing
 logo: /assets/img/small.png
+google_analytics: UA-144126322-2
 
 kramdown:
    toc_levels: 2..3
