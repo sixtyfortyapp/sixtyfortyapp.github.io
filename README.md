@@ -11,6 +11,7 @@ SixtyForty is a tool for do-it-yourself passive investors.  Use it to check your
 * Rebalance with cash flows in/out of account
 * Rebalance individual accounts or across multiple accounts
 * Model your portfolio with asset types and target allocations
+* Manage independent sets of accounts using account groups
 * Data backed up to iCloud
 
 SixtyForty was created to fill the gap between spreadsheets and online investment services.  Spreadsheets, while flexible, can be fiddly and error prone.  Online services, while convenient, require handing over the keys to your accounts, your data, your privacy and even your ability to make investment decisions.
