@@ -26,6 +26,12 @@ Use the rebalance cashflow to simulate adding or removing cash from your account
 
 SixtyForty supports rebalancing accounts separately or together.  This is controlled by changing the rebalance mode in the accounts setup screen (main screen setup menu).  When rebalancing accounts together, a single rebalance summary appears on the accounts screen.
 
+## Account Groups
+
+Accounts in SixtyForty are organized into account groups.  An account group is an independent collection of accounts.  They are useful if you are managing investments for others.
+
+At a minimum, you will need to create one account group to manage your own accounts.
+
 ## Have a Question?
 
 Please send me an [email](mailto:support@sixtyfortyapp.com)
